@@ -1,4 +1,4 @@
-## Hi There👋 This is for a training
+## Hi There👋 
 
 <!--
 **Davidpriestly/davidpriestly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
